@@ -9,3 +9,4 @@
     - { role: ansibl3.deb_atom }
     - { role: ansibl3.deb_docker }
     - { role: ansibl3.deb_steam }
+    - { role: ansibl3.deb_spideroak }
