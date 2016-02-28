@@ -1,0 +1,14 @@
+  - src: ansibl3.ubuntu_laptop
+
+  - src: ansibl3.ubuntu_hopper
+
+  - src: ansibl3.ubuntu_sunjava
+
+  - src: ansibl3.deb_ossec-hids
+
+  - src: ansibl3.deb_atom
+
+  - src: ansibl3.deb_docker
+
+  - src: ansibl3.deb_steam
+

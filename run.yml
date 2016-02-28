@@ -1,0 +1,11 @@
+---
+- hosts: all
+  sudo: true
+  roles:
+    - { role: ansibl3.ubuntu_laptop }
+    - { role: ansibl3.ubuntu_hopper }
+    - { role: ansibl3.ubuntu_sunjava }
+    - { role: ansibl3.deb_ossec-hids }
+    - { role: ansibl3.deb_atom }
+    - { role: ansibl3.deb_docker }
+    - { role: ansibl3.deb_steam }
